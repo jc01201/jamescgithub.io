@@ -3,9 +3,20 @@ body {
   background-color: white;
 }
 
+p {
+  font-family: Arial;
+  font-size: 18px;
+}
 
 h1 {
+  font-family: Arial;
+  font-size: 40px;
   color: #000000;
 }
 
+.fancy {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 30px;
+  color: #a83297
+}
 
